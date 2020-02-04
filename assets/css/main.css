@@ -1994,6 +1994,10 @@ input, select, textarea {
 
 /* Footer */
 
+.footertext{
+	font-size: 0.8em
+}
+
 	#footer {
 		display: -moz-flex;
 		display: -webkit-flex;
